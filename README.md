@@ -1,16 +1,18 @@
-## Hi there 👋
+# ZoneMentale
 
-<!--
-**Zonementale/zonementale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI systems, decision theory and strategic content architecture.
 
-Here are some ideas to get you started:
+I explore how artificial intelligence can be integrated into real-world decision systems, combining insights from strategy, SEO and performance psychology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Topics I work on:
+
+- AI writing systems
+- decision theory applied to AI
+- SEO automation
+- strategic content systems
+- hybrid AI workflows
+
+Founder of ZoneMentale.
+
+Website  
+https://zonementale.com
