@@ -6,7 +6,7 @@ I help founders and decision-makers cut through AI noise, structure better imple
 
 ## Focus areas
 
-- AI decision support for non-technical CEOs
+- I help CEOs and decision-makers turn their business vision into technical execution.
 - SaaS strategy
 - Web3 strategic analysis
 - Reddit VoC research
